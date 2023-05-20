@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Secret Santa'
+theme = 'hugo-theme-monochrome'
+
+[params]
+  [params.list_layout]
+  enable_group_by_year = false # default: true
+  enable_show_date = false # default: true
+  enable_pagination = false # default: false
